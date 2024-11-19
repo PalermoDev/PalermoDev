@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on Front-end projects, Web Dev, and anything that sounds fun
 - 📫 How to reach me: email:{maxandretti9@gmail.com }
-- 😄 Pronouns: Me/Myself and I
 - ⚡ Fun fact: I have Mobile App Development and Game Development diplomas from the Polytechnic University of Puerto Rico✨
 - 💕 Relationship: engaged.
 - ❤️ Love Bunnies.
